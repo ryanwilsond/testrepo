@@ -3,4 +3,4 @@
 *.h linguist-language=cpp text=auto
 
 old/* linguist-vendored
-TODO text=auto linguist-language=cpp
+TODO text=auto linguist-language=text
