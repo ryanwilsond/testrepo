@@ -2,5 +2,5 @@ src/lib/test/include/* linguist-language=cpp text=auto
 *.cpp linguist-language=cpp text=auto
 *.h linguist-language=cpp text=auto
 
-old/* linguist-vendored
+**/old/* linguist-vendored
 TODO text=auto linguist-language=text
